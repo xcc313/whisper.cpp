@@ -1,0 +1,4 @@
+# server
+```bash
+make server
+```
