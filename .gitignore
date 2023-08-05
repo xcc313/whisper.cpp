@@ -4,7 +4,6 @@
 .coreml/
 .test/
 .vs/
-.vscode/
 .DS_Store
 
 build/
